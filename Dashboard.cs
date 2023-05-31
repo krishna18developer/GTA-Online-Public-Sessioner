@@ -78,7 +78,7 @@ namespace GTA_Online_Public_Sessioner
 
                 if (pOpenThread == IntPtr.Zero)
                 {
-                    continue;
+                    continue; 
                 }
 
                 var suspendCount = 0;
